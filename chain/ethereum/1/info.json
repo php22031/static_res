@@ -1,0 +1,11 @@
+{
+	"name": "Ethereum",
+	"website": "https://ethereum.org",
+	"description": "Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.",
+	"explorer":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/1",
+	"type": "",
+	"symbol": "ETH",
+	"decimals": 18,
+	"status": "active",
+	"id": "ETH"
+}

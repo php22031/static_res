@@ -1,0 +1,12 @@
+{
+	"name": "Tether USD",
+	"website": "https://tether.to",
+	"description": "Launched in 2014, Tether tokens (USD₮) pioneered the stablecoin model and are the most widely traded. Tether tokens offer the stability and simplicity of fiat currencies coupled with the innovative nature of blockchain technology, representing a perfect combination of both worlds.",
+	"explorer":"https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48549815",
+	"type": "ERC-20",
+	"symbol": "USDT",
+	"decimals": 6,
+	"status": "active",
+	"id": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+}
