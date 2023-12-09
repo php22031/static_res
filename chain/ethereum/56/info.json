@@ -1,0 +1,11 @@
+{
+	"name": "BNB",
+	"website": "https://www.bnbchain.org",
+	"description": "BNB Chain is composed of two blockchains - BNB Beacon Chain (BC) and BNB Smart Chain (BSC).",
+	"explorer":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48597324",
+	"type": "",
+	"symbol": "BNB",
+	"decimals": 18,
+	"status": "active",
+	"id": "BNB"
+}

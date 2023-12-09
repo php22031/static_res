@@ -1,0 +1,12 @@
+{
+	"name": "JUST",
+	"website": "https://www.just.network",
+	"description": "JST is a part of the USDJ currency system. Holding JST can participate in the community governance of JUST and pay the stabilization fee for CDP borrowing in the JUST system.",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48566616",
+	"explorer":"https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+	"type": "TRC20",
+	"symbol": "JST",
+	"decimals": 18,
+	"status": "active",
+	"id": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+}

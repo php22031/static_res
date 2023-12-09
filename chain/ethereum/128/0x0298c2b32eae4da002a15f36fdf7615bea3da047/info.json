@@ -1,0 +1,12 @@
+{
+	"name": "Heco-Peg HUSD Token",
+	"website": "https://www.stcoins.com",
+	"description": "HUSD 是由 Stable Universal 发行的合规稳定币，与美元 1:1 锚定。对应的资金由信托机构托管，并由专业公司每月出具审计报告。HUSD 将不断拓展在数字资产交易、支付及他金融领域的广泛应用。 从区块链角度来说，HUSD Token 基于成熟的区块链公链 - 以太坊实现，所有链上操作公开透明、不可篡改，具有很高的安全性。通过以太坊中运行的智能合约，HUSD 将作为可编程的数字美元成为新一代金融网络中不可或缺的基础设施。",
+	"explorer2":"https://hecoscan.io/#/token20/0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+	"explorer":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48641114",
+	"type": "HRC20",
+	"symbol": "HUSD",
+	"decimals": 6,
+	"status": "active",
+	"id": "0x0298c2b32eae4da002a15f36fdf7615bea3da047"
+}

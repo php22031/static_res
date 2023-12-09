@@ -1,0 +1,12 @@
+{
+	"name": "Binance-Peg USD Coin",
+	"website": "https://www.circle.com",
+	"description": "USDCoin(USDC)是一个完全可抵押的对标美元的稳定币，它提供详细的财务和运营透明度，并在美国货币流通法的框架内运行，而且跟多家银行机构和审计团队合作。这是Centre的第一个稳定币开源项目。",
+	"explorer":"https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48596325",
+	"type": "BEP-20",
+	"symbol": "USDC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+}

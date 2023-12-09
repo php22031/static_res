@@ -1,0 +1,11 @@
+{
+	"name": "TRON",
+	"website": "https://tron.network",
+	"description": "TRON is dedicated to accelerating the decentralization of the Internet via blockchain technology and decentralized applications (DApps).",
+	"explorer":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48550869",
+	"type": "",
+	"symbol": "TRX",
+	"decimals": 18,
+	"status": "active",
+	"id": "TRON"
+}

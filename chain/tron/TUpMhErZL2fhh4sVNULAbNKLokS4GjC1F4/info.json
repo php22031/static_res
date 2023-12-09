@@ -1,0 +1,12 @@
+{
+	"name": "TrueUSD",
+	"website": "https://tusd.io",
+	"description": "TrueUSD is the first USD-pegged stablecoin to deploy real-time attestations for its underlying reserves by independent third-party institutions.",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48761999",
+	"explorer":"https://tronscan.org/#/token20/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+	"type": "TRC20",
+	"symbol": "TUSD",
+	"decimals": 18,
+	"status": "active",
+	"id": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4"
+}

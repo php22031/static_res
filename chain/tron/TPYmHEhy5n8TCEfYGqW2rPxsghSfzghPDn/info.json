@@ -1,0 +1,12 @@
+{
+	"name": "Decentralized USD",
+	"website": "https://usdd.io",
+	"description": "USDD is a fully decentralized over-collateralization stablecoin.",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/587919806",
+	"explorer":"https://tronscan.org/#/token20/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+	"type": "TRC20",
+	"symbol": "USDD",
+	"decimals": 18,
+	"status": "active",
+	"id": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn"
+}

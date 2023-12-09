@@ -1,0 +1,11 @@
+{
+	"name": "MATIC",
+	"website": "https://polygon.technology",
+	"description": "The fundamental protocol that allows anyone to create and exchange value, powered by zero-knowledge technology.",
+	"explorer":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48728444",
+	"type": "",
+	"symbol": "MATIC",
+	"decimals": 18,
+	"status": "active",
+	"id": "MATIC"
+}

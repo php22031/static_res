@@ -1,0 +1,12 @@
+{
+	"name": "USD Coin",
+	"website": "https://www.centre.io",
+	"description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/98110238",
+	"explorer":"https://tronscan.org/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+	"type": "TRC20",
+	"symbol": "USDC",
+	"decimals": 6,
+	"status": "active",
+	"id": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Heco-Peg USDT Token",
+	"website": "https://tether.to",
+	"description": "Launched in 2014, Tether tokens (USD₮) pioneered the stablecoin model and are the most widely traded. Tether tokens offer the stability and simplicity of fiat currencies coupled with the innovative nature of blockchain technology, representing a perfect combination of both worlds.",
+	"explorer2":"https://hecoscan.io/#/token20/0xa71edc38d189767582c38a3145b5873052c3e47a",
+	"explorer":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48648808",
+	"type": "HRC20",
+	"symbol": "USDT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "HT",
+	"website": "https://hecochain.com",
+	"description": "HECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.",
+	"explorer":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48641106",
+	"type": "",
+	"symbol": "HT",
+	"decimals": 18,
+	"status": "active",
+	"id": "HT"
+}

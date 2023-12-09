@@ -1,0 +1,12 @@
+{
+	"name": "SUN",
+	"website": "https://sun.io",
+	"description": "TrueUSD is the first USD-pegged stablecoin to deploy real-time attestations for its underlying reserves by independent third-party institutions.",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/68476937",
+	"explorer":"https://tronscan.org/#/token20/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+	"type": "TRC20",
+	"symbol": "SUN",
+	"decimals": 18,
+	"status": "active",
+	"id": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
+}

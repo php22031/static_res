@@ -1,0 +1,12 @@
+{
+	"name": "Tether USD",
+	"website": "https://tron.network/usdt",
+	"description": "USDT is the USD-pegged stablecoin issued by Tether on the TRON network.",
+	"explorer2":"https://profile.tptool.pro/?locale=zh-CN&utm_source=tokenpocket#/token/48550884",
+	"explorer":"https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+	"type": "TRC20",
+	"symbol": "USDT",
+	"decimals": 6,
+	"status": "active",
+	"id": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+}
